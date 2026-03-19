@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Home
+layout: post
+title: Something Smart?
 ---
 
 ## Welcome everyone to my spiffy site!
